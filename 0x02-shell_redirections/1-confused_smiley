@@ -1,3 +1,2 @@
 #!/bin/hash
-# confused smiley
-echo "I'm confused" >&2
+echo "\"(Ôo)'"
